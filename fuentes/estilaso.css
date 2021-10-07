@@ -1,0 +1,14 @@
+@font-face {
+  font-family: West;
+  src: url(font/west.ttf);
+}
+
+@font-face {
+  font-family: WestPixel;
+  src: url(font/westpixel.ttf);
+}
+
+h1 {
+  font-family: West;
+  font-size: 8em;
+}
