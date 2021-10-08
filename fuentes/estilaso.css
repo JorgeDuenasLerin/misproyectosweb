@@ -24,6 +24,11 @@ div#contenido{
   background-color: rgba(206, 175, 157, 0.7);
 }
 
+div#contenido img {
+  width: 60%;
+}
+
+
 h1, h2, h3 {
   text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
   font-family: West;
