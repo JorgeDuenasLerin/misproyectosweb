@@ -8,11 +8,36 @@
   src: url(font/westpixel.ttf);
 }
 
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 body {
-  background
+  background-image: url(imgs/madera.jpg);
+  text-align: center;
+}
+
+div#contenido{
+  width: 50%;
+  margin: auto;
+  background-color: rgba(206, 175, 157, 0.7);
+}
+
+h1, h2, h3 {
+  text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+  font-family: West;
 }
 
 h1 {
-  font-family: West;
-  font-size: 8em;
+
+  font-size: 6em;
+}
+
+h2 {
+  font-size: 4em;
+}
+
+h3 {
+  font-size: 2em;
 }
